@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+label{
+    color: aliceblue;
+}
+body{
+    background-color: rgb(78, 69, 55);
+}
+.container{
+    height: 300px;
+    width: 410px;
+    box-shadow: 1px 1px 4px 3px white;
+    text-align: center;
+    margin: 50px 0px 0px 450px;
+    border-radius: 25px;
+}
+
+#In{
+    height: 100px;
+    width: 396px;
+    font-size: 50px;
+    text-align: right;
+    border-radius: 25px;
+}
+
+#submit{
+    height: 50px;
+    width: 200px; 
+    font-size: larger;
+    background-color: bisque;
+    border-radius: 25px;
+    text-align: center;
+}
+
+#output{
+    height: 70px;
+    width: 397px;
+    background-color: aqua;
+    border: 1px dotted black;
+    border-radius: 25px;
+    font-size: larger;
+    padding-top: 20px;
+    margin-left: 6px;
+}
